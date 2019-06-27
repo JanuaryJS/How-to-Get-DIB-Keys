@@ -14,7 +14,7 @@
 
    **Note**: You should bind a same steam account for iGXE.cn and DIB.gg
 
-   (2) DIBOTC ([https://www.igxe.cn/dib/index](https://www.igxe.cn/dib/index))
+   (2) DIBOTC ([https://www.dibotc.com](https://www.dibotc.com))
 
    You can also find DIB Keys and items here.
 
