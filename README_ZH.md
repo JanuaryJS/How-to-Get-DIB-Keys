@@ -16,7 +16,7 @@
 
    要求IGXE帐号和DIB帐号绑定相同的steam账号（注意是同一个，不然无法交易）
 
-   (2) DIBOTC平台 ([https://www.igxe.cn/dib/index](https://www.igxe.cn/dib/index))
+   (2) DIBOTC平台 ([https://www.dibotc.com](https://www.dibotc.com))
 
    在装备平台上可以从其他玩家处获得DIB钥匙或饰品。
 
