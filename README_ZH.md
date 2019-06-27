@@ -1,6 +1,6 @@
 ## How-to-Get-DIB-Keys
 
-> [中文文档](./README_ZH)
+> [中文文档](./README_ZH.md)
 
 1. 通过社区贡献获得
 
