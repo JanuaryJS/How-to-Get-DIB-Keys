@@ -14,8 +14,8 @@
     
     (2) DIBOTC ([https://www.igxe.cn/dib/index](https://www.igxe.cn/dib/index))
     
-    ![2.png](https://raw.githubusercontent.com/JanuaryJS/How-to-Get-DIB-Keys/master/2.png)
-    
     You can also find DIB Keys and items here.
+    
+    ![2.png](https://raw.githubusercontent.com/JanuaryJS/How-to-Get-DIB-Keys/master/2.png)
     
     **Note**: You should bind a same steam account for DIBOTC.com and DIB.gg
