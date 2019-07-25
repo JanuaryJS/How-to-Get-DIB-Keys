@@ -1,6 +1,6 @@
 ## How-to-Get-DIB-Keys
 
-> [英文文档](./README.md)
+> [英文](./README.md)
 
 1. 通过社区贡献获得
 
